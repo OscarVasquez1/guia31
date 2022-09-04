@@ -1,0 +1,9 @@
+﻿{
+	"fichero":{"ficha":{
+			"@id":"1",
+			"@fechaingreso":"3/09/2022",
+			"nombre":"Oscar",
+			"apellido":"Vasquez",
+			"direccion":"Calle de Los Andes, 44"
+		}}
+}

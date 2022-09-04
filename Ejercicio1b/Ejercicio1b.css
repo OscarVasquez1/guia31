@@ -1,0 +1,13 @@
+/* Ejercicio1b.css   VA17011  */
+fichero {background-color:#ff9f0f}
+ficha {background-color:rgb(0, 255, 85); display:block;} 
+nombre {color:rgb(0, 0, 0); font-size:1cm;display:inline; } 
+apellido {color:rgb(0, 0, 0); font-size:1cm;display:inline;} 
+direccion {color:rgb(0, 0, 0);font-size:1cm; display:inline;}
+telefono{color:rgb(0, 0, 0); font-size:1cm;display:inline;} 
+email {color:rgb(0, 0, 0); font-size:1cm;display:inline;} 
+website{color:rgb(0, 0, 0);font-size:1cm; display:inline;}
+dui{color:rgb(0, 0, 0); font-size:1cm;display:inline;} 
+isss {color:rgb(0, 0, 0); font-size:1cm;display:inline;} 
+afp{color:rgb(0, 0, 0);font-size:1cm; display:inline;}
+p {color:rgb(0, 0, 0);font-size:6mm; display:inline;}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="Ejercicio1b.css" ?>
+<!-- Ejercicio1b.xml  VA17011 -->
+<fichero>
+<p>DATOS N°1</p>
+<ficha id="1" fechaingreso="3/09/2022">
+<nombre>Oscar</nombre>
+<apellido>Vasquez, </apellido>
+<direccion>Calle de Los Andes, 44</direccion>
+</ficha>
+<p>DATOS N°2</p>
+<ficha id="2" fechaingreso="3/09/2022">
+<telefono>25361489, </telefono>
+<email>va17011@ues.edu.sv, </email>
+<website>https://github.com/OscarVasquez1 </website>
+</ficha>
+<p>DATOS N°3</p>
+<ficha id="3" fechaingreso="3/09/2022">
+<dui>04258968-4, </dui>
+<isss>106730069, </isss>
+<afp>458697326541. </afp>
+</ficha>
+</fichero>

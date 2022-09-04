@@ -1,0 +1,11 @@
+/* Ejercicio2b.css   VA17011  */
+pais {background-color:#f3ef1f}
+departamento {background-color:rgb(34, 255, 52); display:block;} 
+cabecera {color:rgb(0, 0, 0); font-size:1cm;display:inline;} 
+habitantes {color:rgb(0, 0, 0); font-size:1cm;display:inline;} 
+altura {color:rgb(0, 0, 0);font-size:1cm; display:inline;}
+moneda {color:rgb(0, 0, 0); font-size:1cm;display:inline;} 
+codigo_telefonico {color:rgb(0, 0, 0); font-size:1cm;display:inline;} 
+idioma{color:rgb(0, 0, 0);font-size:1cm; display:inline;}
+area_territorial{color:rgb(0, 0, 0);font-size:1cm; display:inline;}
+p {color:rgb(0, 0, 0);font-size:6mm; display:inline;}

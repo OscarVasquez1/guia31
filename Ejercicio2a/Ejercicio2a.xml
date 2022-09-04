@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="Ejercicio2a.css" ?>
+<!-- Ejercicio2a.xml  VA17011 -->
+<pais nombre="El Salvador">
+    <p>Departamento: San Salvador</p>
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador, </cabecera>
+    <habitantes>1,700,000, </habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+     <p>Departamento: Santa Ana</p>
+  <departamento id="2" nombre="Santa Ana">
+    <moneda>Dolar Americano, </moneda>
+    <codigo_telefonico>503, </codigo_telefonico>
+    <idioma>Español, </idioma>
+    <area_territorial>408 km²</area_territorial>
+  </departamento>
+</pais>

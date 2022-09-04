@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejemplo1.css" ?>
+<!-- ejemplo1.xml  VA17011 -->
+<fichero>
+<ficha id="1" fechaingreso="3/09/2022">
+<nombre>Oscar</nombre>
+<apellido>Vasquez</apellido>
+<direccion>Calle de Los Andes, 44</direccion>
+</ficha>
+</fichero>
